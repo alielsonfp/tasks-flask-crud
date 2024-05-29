@@ -60,6 +60,6 @@ Contém testes para a API utilizando pytest e requests.
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/seu_usuario/task-manager.git
+git clone https://github.com/alielsonfp/tasks-flask-crud.git
 ```
 
