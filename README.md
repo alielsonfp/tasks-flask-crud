@@ -2,6 +2,19 @@
 
 O Task Manager é uma aplicação para gerenciar tarefas, permitindo a criação, leitura, atualização e exclusão de tarefas.
 
+## Sobre o Projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar e aplicar os conceitos de desenvolvimento web utilizando Flask e Python. O Task Manager é uma API simples para gerenciar tarefas, permitindo a criação, leitura, atualização e exclusão de tarefas. Ele foi criado como parte de um processo de aprendizado e aprimoramento das habilidades em desenvolvimento web com Flask.
+
+### Objetivos do Projeto:
+
+- Praticar os conceitos fundamentais de Flask e Python.
+- Implementar operações CRUD (Create, Read, Update, Delete) em uma API RESTful.
+- Aprender sobre testes de unidade e integração utilizando pytest.
+- Explorar o desenvolvimento de APIs com documentação utilizando Swagger.
+
+Este projeto pode ser utilizado como um exemplo de aplicação Flask simples e serve como uma base sólida para expandir e aprimorar suas habilidades em desenvolvimento web com Python. Sinta-se à vontade para clonar o repositório, experimentar e adaptar o código de acordo com suas necessidades e objetivos de aprendizado.
+
 ## Funcionalidades
 
 - Criar novas tarefas.
