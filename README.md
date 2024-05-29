@@ -35,3 +35,31 @@ Para detalhes completos das especificações da API, acesse a [documentação Sw
 ## Banco de dados
 
 Nesta aplicação, as tarefas são armazenadas em memória (lista em Python).
+
+## Arquivo `app.py`
+
+Contém a aplicação Flask que define as rotas e a lógica para as operações CRUD de tarefas.
+
+## Arquivo `models/task.py`
+
+Define a classe `Task`, que representa uma tarefa e possui métodos para converter a tarefa em um dicionário.
+
+## Arquivo `test.py`
+
+Contém testes para a API utilizando pytest e requests.
+
+## Como Executar
+
+### Pré-requisitos
+
+- Python 3.x
+- Flask
+- Requests
+- Pytest
+
+### Clonando o Repositório
+
+```bash
+git clone https://github.com/seu_usuario/task-manager.git
+```
+
